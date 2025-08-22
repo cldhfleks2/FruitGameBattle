@@ -21,7 +21,7 @@
 ## 🚀 개발 현황
 
 ### Phase 1: 기본 멀티플레이 
-- [x] 싱글플레이 수박게임 구현 (Matter.js)
+- [ ] 싱글플레이 수박게임 구현 (Matter.js)
 - [ ] Spring WebSocket(STOMP) 실시간 통신 구축
 - [ ] 양쪽 화면 분할 UI
 - [ ] 기본 매칭 시스템
