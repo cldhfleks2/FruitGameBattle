@@ -1,4 +1,4 @@
-package com.cldhfleks2.fruitgamebattle;
+package src.fruitgamebattle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
