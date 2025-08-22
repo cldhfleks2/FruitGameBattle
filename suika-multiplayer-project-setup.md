@@ -37,13 +37,6 @@
         <artifactId>lombok</artifactId>
         <optional>true</optional>
     </dependency>
-    
-    <!-- JWT (유저 인증용) -->
-    <dependency>
-        <groupId>io.jsonwebtoken</groupId>
-        <artifactId>jjwt-api</artifactId>
-        <version>0.11.5</version>
-    </dependency>
 </dependencies>
 ```
 
@@ -379,7 +372,7 @@ suika-multiplayer/
 
 ### 필수 추가 사항
 1. **CORS 설정** - Spring Boot에서 Vue.js 요청 허용
-2. **세션 관리** - Spring Session 또는 JWT
+2. **세션 관리** - Spring Security
 3. **매칭 시스템** - Redis 추가 고려 (실시간 매칭 큐)
 
 ### 선택적 추가 사항
